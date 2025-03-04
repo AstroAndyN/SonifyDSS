@@ -32,8 +32,8 @@ python sonify-dss.py [-h] [-d [{lr,rl,tb,bt,clk,aclk}]] [-s [SAMPLERATE]] [-lf [
 The four compulsory command line arguments are:
 * `object`: The name of the astronomical object of interest or a suitable celestial coordinate to centre the DSS data on. The format is as used in the SkyView interface - see https://skyview.gsfc.nasa.gov/current/help/fields.html#position
 * `angsize`: The size on the sky of the data to sonify. This is given in arcminutes. Large areas (more than a few 10s of arcminutes) will take a long time to get from the DSS server.
-* `outfile`: The output audio file. The software will try to generate sound in a format based on the file extension, but the most reliable will be ".avi"
-* `soundlen`: The duration of the sound to be generated (in seconds)
+* `outfile`: The output audio file. The software will try to generate sound in a format based on the file extension, but the most reliable will be ".avi".
+* `soundlen`: The duration of the sound to be generated (in seconds).
 
 The option parameters allow more detailed configuration:
 * `-h / --help`: Display the usage "help"" and exit.
