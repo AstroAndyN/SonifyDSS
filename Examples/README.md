@@ -71,7 +71,7 @@ Files produced:
 * [M51-aclk-ff.mp4](./M51-aclk-ff.mp4)
 
 
-## Different object NGC4565
+## Different object NGC4565
 
 All the sets above but for the edge-on galaxy NGC4565
 
