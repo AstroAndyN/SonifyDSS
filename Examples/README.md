@@ -1,6 +1,6 @@
 # SonifyDSS Examples
 
-Some example sonfy-dss.py command and their associated outputs
+Some example sonify-dss.py commands and their associated outputs
 
 ## Different sweeps of M51
 
