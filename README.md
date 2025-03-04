@@ -1,5 +1,5 @@
 # SonifyDSS
-Generate sounds from Digitized Sky Survey data using "sonification" techniques
+Generate sounds from Digitized Sky Survey data using "sonification" techniques.
 
 # Outline
 SonifyDSS is a python code that using sonification techniques to turn FITS data from the Digitized Sky Survey 2 collected from the NSAS SkyView system (https://skyview.gsfc.nasa.gov) into sounds. It is focussed on generating sounds for composition or exploring data and so is highly configurable.
@@ -9,7 +9,7 @@ It is command-line based system and requires a modicum of experience of python.
 # The Sonification technique:
 The sonfication technique maps from image brightness of a single pixel to volume of a particular frequency.
 
-So, given a bit of image data from the DSS a line can be chosen across the image and all the pixels along that line allocated to different frequencies (with low frequency at one end, high frequency at the other). A sine wave at each frequency is generated with the amplitude determined by the brightness of the pixel and all the sine eaves combined to produce a short sound.
+So, given a selection of image data from the DSS a line can be chosen across the image and all the pixels along that line allocated to different frequencies (with low frequency at one end, high frequency at the other). A sine wave at each frequency is generated with the amplitude determined by the brightness of the pixel and all the sine waves combined to produce a short sound.
 
 The line can then be moved around the image data, producing a different pattern of pixels and hence a different sound. That is then appended to the previous sound and so on to create a sound of arbitrary length.
 
