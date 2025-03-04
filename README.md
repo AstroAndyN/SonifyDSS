@@ -18,10 +18,10 @@ To generate stereo sounds, Red DSS2 survey data is used for the left channel and
 ## What the code does
 The software enables:
 * A particular piece of the sky to be downloaded from the DSS surveys.
-* A line to be "swept" across the data is a particular direction (top-to-bottom, circularly etc).
+* A line to be "swept" across the data in a particular direction (top-to-bottom, circularly etc).
 * The sounds generated to be combined into a single audio file of chosen duration.
 
-Optionally the code can also produce an image showing the DSS data and/or a movie showing the line "sweeping" over the image data.
+Optionally the code can also produce an image showing the DSS data and/or a movie showing the line "sweeping" over the image data (see the [Examples](/Examples)
 
 # Usage
 ```
