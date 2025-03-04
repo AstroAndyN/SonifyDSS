@@ -57,31 +57,40 @@ The option parameters allow more detailed configuration:
 # Set up
 The code makes use of a number of python libraries. Each should be installed using your local tools - usually `pip`.
 
-## Libraries for audio:
+## Python libraries
+### Libraries for audio:
   sounddevice
+
   soundfile
 
-## Library for creating the movie
+### Library for creating the movie
   moviepy
 
   Also the ffmpeg command line programme will be needed. See https://ffmpeg.org/
 
-## Libraries for getting astronomical images and extracting data from them:
+### Libraries for getting astronomical images and extracting data from them:
   astropy
+
   astropy.io
+
   astropy.coordinates
+
   astroquery.skyview
+
   matplotlib.pyplot
 
-## Libraries for maths and data manipulation:
+### Libraries for maths and data manipulation:
   numpy
+
   scipy
+
   math
+
   random
 
-## Library for the command line
+### Library for the command line
   argparse
 
-# Library for the progress bars:
+### Library for the progress bars:
   progressbar2
 
