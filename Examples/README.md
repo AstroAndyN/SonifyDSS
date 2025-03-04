@@ -33,7 +33,7 @@ Files produced:
 * [M51-bt.wav](./M51-bt.wav)
 * [M51-bt.mp4](./M51-bt.wav)
 
-### Now with clockwise and anticlockwise "sweeps":
+### With clockwise and anticlockwise "sweeps"
 
 `python sonify-dss.py M51 15 M51-clk.wav 20 -d clk -siz 400 -mov M51-clk.mp4`
 
@@ -71,7 +71,7 @@ Files produced:
 * [M51-aclk-ff.mp4](./M51-aclk-ff.mp4)
 
 
-## Different object: NGC4565
+## Different object NGC4565
 
 All the sets above but for the edge-on galaxy NGC4565
 
@@ -117,7 +117,7 @@ Files:
 * [NGC4565-aclk-ff.wav](./NGC4565-aclk-ff.wav)
 * [NGC4565-aclk-ff.mp4](./NGC4565-aclk-ff.mp4)
 
-## Changing the frequency range:
+## Changing the frequency range
 
 Lowering the frequency range to 3HZ-to-500HZ for M51, clockwise sweep with and without frequency "flip":
 
