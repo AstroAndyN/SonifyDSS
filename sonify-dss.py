@@ -603,7 +603,9 @@ def makeMovie(imgRGB, sndpars, movfil, sndfil):
                                )
     
     # Write to a temporary file
-    _mov = "__" + str(random.randint(100000, 999999)) + "_" + movfil
+    _movfn, _movext = os.path.splitext(movfil)
+
+    _mov = _movfn + "__" + str(random.randint(100000, 999999)) + "_" + _movext
     anim.save(_mov, fps=fps, dpi=100, extra_args=['-vcodec', 'libx264'])
 
     pbar.update(numfrms-1)
