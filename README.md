@@ -2,7 +2,7 @@
 Generate sounds from Digitized Sky Survey data using "sonification" techniques.
 
 # Outline
-SonifyDSS is a python code that using sonification techniques to turn FITS data from the Digitized Sky Survey 2 collected from the NSAS SkyView system (https://skyview.gsfc.nasa.gov) into sounds. It is focussed on generating sounds for composition or exploring data and so is highly configurable.
+SonifyDSS is a python code that using sonification techniques to turn FITS data from the Digitized Sky Survey 2 collected from the NASA SkyView system (https://skyview.gsfc.nasa.gov) into sounds. It is focussed on generating sounds for composition or exploring data and so is highly configurable.
 
 It is command-line based system and requires a modicum of experience of python.
 
