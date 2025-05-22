@@ -11,7 +11,7 @@ A left-to-right sweep across M51. The DSS data is 400x400 pixels and 15 arcminut
 Files produced:
 * [M51-lr.wav](./M51-lr.wav)
 * [M51.png](./M51.png)
-* [M51-lr.mp4](./M51-lr.wav)
+* [M51-lr.mp4](./M51-lr.mp4)
 
 As above but right-to-left (though no picture created as we already have it)
 
@@ -19,7 +19,7 @@ As above but right-to-left (though no picture created as we already have it)
 
 Files produced:
 * [M51-rl.wav](./M51-rl.wav)
-* [M51-rl.mp4](./M51-rl.wav)
+* [M51-rl.mp4](./M51-rl.mp4)
 
 Ditto but top-to-bottom and bottom-to-top
 
@@ -29,9 +29,9 @@ Ditto but top-to-bottom and bottom-to-top
 
 Files produced:
 * [M51-tb.wav](./M51-tb.wav)
-* [M51-tb.mp4](./M51-tb.wav)
+* [M51-tb.mp4](./M51-tb.mp4)
 * [M51-bt.wav](./M51-bt.wav)
-* [M51-bt.mp4](./M51-bt.wav)
+* [M51-bt.mp4](./M51-bt.mp4)
 
 ### With clockwise and anticlockwise "sweeps"
 
@@ -41,9 +41,9 @@ Files produced:
 
 Files produced:
 * [M51-clk.wav](./M51-clk.wav)
-* [M51-clk.mp4](./M51-clk.wav)
+* [M51-clk.mp4](./M51-clk.mp4)
 * [M51-aclk.wav](./M51-aclk.wav)
-* [M51-aclk.mp4](./M51-aclk.wav)
+* [M51-aclk.mp4](./M51-aclk.mp4)
 
 ## M51 again, but "flipping" the frequency direction
 
