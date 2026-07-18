@@ -44,7 +44,7 @@ The option parameters allow more detailed configuration:
   * `bt`: Bottom to top.
   * `clk`: A clockwise circular sweep with the fixed point in the centre of the image data.
   * `aclk`: As above but anti-clockwise.
-* `-s / --samplerate [samplerate]`: Set the same rate of the output audio file. Default is 44100Hz.
+* `-s / --samplerate [samplerate]`: Set the sample rate of the output audio file. Default is 44100Hz.
 * `-lf / --lowfreq [lowfreq]`: Set the lower frequency limit for one end of the sweeping line. Default is 30Hz.
 * `-hf / --highfreq [highreq]`: As above but for the high frequency end of the line. Default is 2000Hz.
 * `-ff / --flipfreq` : Flip the order of frequencies along the sweep line.
